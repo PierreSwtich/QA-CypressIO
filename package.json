@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "cypress": "^10.9.0"
-  }
+  },
+  "name": "cypressio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierreSwtich/QA-CypressIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierreSwtich/QA-CypressIO/issues"
+  },
+  "homepage": "https://github.com/PierreSwtich/QA-CypressIO#readme",
+  "description": ""
 }
